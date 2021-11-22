@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam:wght@400;500;700&display=swap");
+
+:root {
+  --Bright-Red: hsl(12, 88%, 59%);
+  --Dark-Blue: hsl(228, 39%, 23%);
+  --Dark-Grayish-Blue: hsl(227, 12%, 61%);
+  --Very-Dark-Blue: hsl(233, 12%, 13%);
+  --Very-Pale-Red: hsl(13, 100%, 96%);
+  --Vary-Light-Gray: hsl(0, 0%, 98%);
+}
+html{
+    font-size: 16px;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Kumbh Sans", sans-serif;
+  }
+  button{
+    background-color: var(--Bright-Red);
+    border: none;
+    border-radius: 30px;
+    color: var(--Vary-Light-Gray);
+  }
+  p{
+    color: var(--Dark-Grayish-Blue);
+    line-height: 1.5;
+  }
+nav{
+  margin: 2rem 1rem;
+  display: flex;
+  justify-content: space-between;
+}  
+.section1 img{
+  width: 17rem;
+  margin-left: 4rem;
+}
+.section2{
+  
+  text-align: center;
+}
+h1, h2{
+  margin: 1rem;
+  color: var(--Dark-Blue);
+  font-size: 2.2rem;
+}
+
+.section2 p{
+  margin: 1px 2.2rem 1.5rem 2.2rem;
+}
+.section2 button{
+  width: 8rem;
+  height: 3rem;
+  
+}
+h2{
+  font-size: 2rem;
+  margin: 6rem 2rem 3rem 2rem;
+}
+.section3{
+  margin-left: 1rem;
+}
+.section3{
+  margin-right: 2px;
+}
+.list1{
+  display: flex;
+  background-color: var(--Very-Pale-Red);
+  height: 2rem;
+  margin: 1rem;
+}
+.list1 button{
+  width: 4rem;
+  
+}
+h4{
+  color: var(--Dark-Blue);
+}
+
+.profile{
+  margin:auto;
+}
