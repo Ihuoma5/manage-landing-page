@@ -1,4 +1,13 @@
-# Frontend Mentor - Manage landing page
+
+- Solution URL: [Add solution URL here](https://github.com/Ihuoma5/manage-landing-page)
+- Live Site URL: [Add live site URL here](https://manage-landing-page-oma.netlify.app/)
+
+## Author
+
+- Website - [Ihuoma5](https://ihuoma5.netlify.app/)
+- Frontend Mentor - [@ihuoma5](https://www.frontendmentor.io/profile/ihuoma5)
+- Twitter - [@ihu_oma5](https://www.twitter.com/ihu_oma5)
+<!-- # Frontend Mentor - Manage landing page
 
 ![Design preview for the Manage landing page coding challenge](./design/desktop-preview.jpg)
 
@@ -93,4 +102,4 @@ We love receiving feedback! We're always looking to improve our challenges and o
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
-**Have fun building!** 🚀
+**Have fun building!** 🚀 -->
